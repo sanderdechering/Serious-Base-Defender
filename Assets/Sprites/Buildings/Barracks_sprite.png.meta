@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 0df5622db38944acbb0b166efdec5a62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8194289976679508710
+    second: Barracks_sprite_0
+  - first:
+      213: -1617932551172737843
+    second: Barracks_sprite_1
+  - first:
+      213: -385304532697907829
+    second: Barracks_sprite_2
+  - first:
+      213: 8684857822087436352
+    second: Barracks_sprite_3
+  - first:
+      213: 2807161799839062258
+    second: Barracks_sprite_4
+  - first:
+      213: 7755606103824219912
+    second: Barracks_sprite_5
+  - first:
+      213: -7100651633502551460
+    second: Barracks_sprite_6
+  - first:
+      213: -4342161632891000530
+    second: Barracks_sprite_7
+  - first:
+      213: -4532325594928758202
+    second: Barracks_sprite_8
+  - first:
+      213: -1013154740516036841
+    second: Barracks_sprite_9
+  - first:
+      213: 6104263591527548860
+    second: Barracks_sprite_10
+  - first:
+      213: -4241218747472926911
+    second: Barracks_sprite_11
+  - first:
+      213: -340442651647056084
+    second: Barracks_sprite_12
+  - first:
+      213: -7710763059288688939
+    second: Barracks_sprite_13
+  - first:
+      213: 4560848101759486722
+    second: Barracks_sprite_14
+  - first:
+      213: -6639140424145677065
+    second: Barracks_sprite_15
+  - first:
+      213: -2018087471041750339
+    second: Barracks_sprite_16
+  - first:
+      213: -8569701644076910787
+    second: Barracks_sprite_17
+  - first:
+      213: -3706255184493801130
+    second: Barracks_sprite_18
+  - first:
+      213: 2793080288720935639
+    second: Barracks_sprite_19
+  - first:
+      213: -722533523736868489
+    second: Barracks_sprite_20
+  - first:
+      213: -3781984467664150911
+    second: Barracks_sprite_21
+  - first:
+      213: -6600069953553638721
+    second: Barracks_sprite_22
+  - first:
+      213: 6868362805049399886
+    second: Barracks_sprite_23
+  - first:
+      213: -4045702054318126532
+    second: Barracks_sprite_24
+  - first:
+      213: -540047148396656944
+    second: Barracks_sprite_25
+  - first:
+      213: 7243973507106659333
+    second: Barracks_sprite_26
+  - first:
+      213: -8984865713766835905
+    second: Barracks_sprite_27
+  - first:
+      213: -4325302379372384607
+    second: Barracks_sprite_28
+  - first:
+      213: 3328107887598597452
+    second: Barracks_sprite_29
+  - first:
+      213: 8374595084370858868
+    second: Barracks_sprite_30
+  - first:
+      213: 4488589155030383182
+    second: Barracks_sprite_31
+  - first:
+      213: 7931187549871679693
+    second: Barracks_sprite_32
+  - first:
+      213: -3489919906154622232
+    second: Barracks_sprite_33
+  - first:
+      213: -2823018958810208729
+    second: Barracks_sprite_34
+  - first:
+      213: 6409431757358059189
+    second: Barracks_sprite_35
+  - first:
+      213: -2041582325382203194
+    second: Barracks_sprite_36
+  - first:
+      213: 2361952529607443902
+    second: Barracks_sprite_37
+  - first:
+      213: 5226986218826707766
+    second: Barracks_sprite_38
+  - first:
+      213: -6501689551342945813
+    second: Barracks_sprite_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 1799, y: 217, z: 512, w: 424}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barracks_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1559717ea8084e80800000000000000
+      internalID: -8194289976679508710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4bec8bae2fb89e0800000000000000
+      internalID: -1617932551172737843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7136a19f17aaf0800000000000000
+      internalID: -385304532697907829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485b42cc20d68870800000000000000
+      internalID: 8684857822087436352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f81472b8ca05f620800000000000000
+      internalID: 2807161799839062258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f3b4419a271ab60800000000000000
+      internalID: 7755606103824219912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52884fc5fa657d90800000000000000
+      internalID: -7100651633502551460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a33a200b8db3c0800000000000000
+      internalID: -4342161632891000530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424cdb72e1f911c0800000000000000
+      internalID: -4532325594928758202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 635.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fd905a12d80f1f0800000000000000
+      internalID: -1013154740516036841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7895c0563b6b450800000000000000
+      internalID: 6104263591527548860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472626250a2425c0800000000000000
+      internalID: -4241218747472926911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c276f2a4631864bf0800000000000000
+      internalID: -340442651647056084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b4e7d9ddddf490800000000000000
+      internalID: -7710763059288688939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b83e32f236b4f30800000000000000
+      internalID: 4560848101759486722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45cdcb5f80dd3a0800000000000000
+      internalID: -6639140424145677065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad3ea23205ef3e0800000000000000
+      internalID: -2018087471041750339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37f6b942cd421980800000000000000
+      internalID: -8569701644076910787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511c49db8cb09cc0800000000000000
+      internalID: -3706255184493801130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 424.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5b5669b303c620800000000000000
+      internalID: 2793080288720935639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7794a5b969b09f5f0800000000000000
+      internalID: -722533523736868489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e55da1a21b38bc0800000000000000
+      internalID: -3781984467664150911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad4bd8857d764a0800000000000000
+      internalID: -6600069953553638721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a997fb493515f50800000000000000
+      internalID: 6868362805049399886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3acc49aa67cad7c0800000000000000
+      internalID: -4045702054318126532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cad5dafd5188f0800000000000000
+      internalID: -540047148396656944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cde654683c78460800000000000000
+      internalID: 7243973507106659333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395758bc385f4380800000000000000
+      internalID: -8984865713766835905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6b53076079f3c0800000000000000
+      internalID: -4325302379372384607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 213.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457d7e9d70df2e20800000000000000
+      internalID: 3328107887598597452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47358a5dbd9883470800000000000000
+      internalID: 8374595084370858868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab1401e0caa4e30800000000000000
+      internalID: 4488589155030383182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82a1d2e0d311e60800000000000000
+      internalID: 7931187549871679693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2d613f550519fc0800000000000000
+      internalID: -3489919906154622232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ace5c63f92d8d0800000000000000
+      internalID: -2823018958810208729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be4f658930e2f850800000000000000
+      internalID: 6409431757358059189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b0eb11b7daa3e0800000000000000
+      internalID: -2041582325382203194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5469fbf4757c020800000000000000
+      internalID: 2361952529607443902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333703b54cf98840800000000000000
+      internalID: 5226986218826707766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barracks_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2.25
+        width: 257.1
+        height: 211.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9b55ceccb55c5a0800000000000000
+      internalID: -6501689551342945813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
